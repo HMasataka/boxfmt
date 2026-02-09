@@ -12,7 +12,7 @@ func main() {
 	flag.Parse()
 
 	if flag.NArg() < 1 {
-		fmt.Fprintln(os.Stderr, "usage: mdfmt [options] <file>")
+		fmt.Fprintln(os.Stderr, "usage: boxfmt [options] <file>")
 		os.Exit(1)
 	}
 

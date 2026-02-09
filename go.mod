@@ -1,4 +1,4 @@
-module github.com/HMasataka/claude/mdfmt
+module github.com/HMasataka/claude/boxfmt
 
 go 1.23.0
 
